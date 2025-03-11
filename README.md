@@ -6,9 +6,9 @@
 
 _Features_
 
-In this I have cleaned the data, filled the null values and handled missing values with the statistical formulas.
+1.In this I have cleaned the data, filled the null values and handled missing values with the statistical formulas.
 
-Explored the data and found the list as follows:
+2.Explored the data and found the list as follows:
 
 - History of Cancer
 - Number of heart transplants
@@ -16,3 +16,5 @@ Explored the data and found the list as follows:
 - Classified the pre diabetes and above diabetes count
 - Calculated the highest BMI
 - Identified the expenses occured across all the tier's
+
+3. Visualized the results with different visuals available on excel.
